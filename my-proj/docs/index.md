@@ -1,7 +1,5 @@
 # Project Requirements
 
-aaa
-
 ## Executive summary
 
 ## Project glossary
