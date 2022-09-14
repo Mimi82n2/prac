@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: USchool
+site_url: https://example.com/
+
+nav:
+
+    - Project Requirements: index.md
+    - Software Design: SoftwareDesign.md
+    - Project Management: ProjectManagement.md
+    - Teamwork: Teamwork.md
