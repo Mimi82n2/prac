@@ -1,9 +1,1 @@
-site_name: USchool
-
-
-nav:
-
-    - Project Requirements: index.md
-    - Software Design: SoftwareDesign.md
-    - Project Management: ProjectManagement.md
-    - Teamwork: Teamwork.md
+site_name: My Docs
